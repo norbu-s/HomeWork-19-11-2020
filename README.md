@@ -1,18 +1,18 @@
 # Horiseon SEO Project
 
-# Description.
+## Description.
 We have refactored the existing code to make Horesion's website more accessible and to optimize the quality and quantity of traffic through organic search engine results
 
-# Project Goal.
+## Project Goal.
 Goal of this project is to increase the quality and quantity of traffic to Horiseon's website. While following the Html semantics standards, CSS selectors and sematic structure.
 
-# Installation.
+### Installation.
 N/A
 
-# Author.
+### Author.
 Name : Norbu Sherpa.
 
-# Links for resource.
+### Links for resource.
 1. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
 2. https://guides.github.com/
 3. https://www.w3schools.com/

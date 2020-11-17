@@ -16,7 +16,6 @@ Name : Norbu Sherpa.
 1. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
 2. https://guides.github.com/
 3. https://www.w3schools.com/
-
-# Standards.
+4. https://gist.github.com/thomd/9220049
 
 

@@ -22,4 +22,4 @@ Github Repository: https://github.com/norbu-s/HomeWork-19-11-2020
 Project Url: https://norbu-s.github.io/HomeWork-19-11-2020/Develop/
 
 Application Screenshot
-![Image of Application](main/Develop/assets/images/Project.png)
+![Image of Application](/Develop/assets/images/Project.png)

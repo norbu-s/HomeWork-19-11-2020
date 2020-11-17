@@ -1,10 +1,10 @@
 # Horiseon SEO Project
 
 # Description.
-ProjectWe have to refactor the existing code to optimize the quality and quantity of traffic to Horiseon's website through organic serach engines results.
+We have to refactor the existing codebase to optimize the quality and quantity of traffic to Horiseon's website through organic serach engines results.
 
 # Project Goal.
-the end gola of this project is to increase the quality and quantity of traffic to Horiseon's website.
+Goal of this project is to increase the quality and quantity of traffic to Horiseon's website. While following the Html semantics standards, CSS selectors and sematic structure.
 
 # Installation.
 N/A
@@ -18,4 +18,9 @@ Name : Norbu Sherpa.
 3. https://www.w3schools.com/
 4. https://gist.github.com/thomd/9220049
 
+Github Repository: https://github.com/norbu-s/HomeWork-19-11-2020
+Project Url: https://norbu-s.github.io/HomeWork-19-11-2020/Develop/
 
+Application Screenshot
+![Image of Application]
+(https://github.com/norbu-s/HomeWork-19-11-2020/blob/main/Develop/assets/images/Project.png)

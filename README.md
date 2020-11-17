@@ -1,7 +1,7 @@
 # Horiseon SEO Project
 
 # Description.
-We have refactor the existing code to optimize the quality and quantity of traffic to Horiseon's website through organic serach engines results.
+We have refactored the existing code to make Horesion's website more accessible and to optimize the quality and quantity of traffic through organic search engine results
 
 # Project Goal.
 Goal of this project is to increase the quality and quantity of traffic to Horiseon's website. While following the Html semantics standards, CSS selectors and sematic structure.

@@ -32,19 +32,12 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* Page header*/
-.header div ul {
-    list-style-type: none;
-}
-/* Page header*/
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
+
 /* Web links*/
 a {
     color: #ffffff;
     text-decoration: none;
+    margin-right: 15px;
 }
 /*page main image*/
 .hero {

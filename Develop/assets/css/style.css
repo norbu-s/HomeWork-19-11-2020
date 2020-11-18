@@ -25,7 +25,7 @@ body {
     color: #d9dcd6;
 }
 /* Page header*/
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,10 +34,15 @@ body {
 }
 
 /* Web links*/
-a {
+a { 
+    margin-right:15px;
     color: #ffffff;
     text-decoration: none;
-    margin-right: 15px;
+}
+
+/* Section paragrapg*/
+p {
+    padding-top: 20px;
 }
 /*page main image*/
 .hero {
@@ -98,7 +103,7 @@ a {
     bottom: 10px;
 }
 /* Section Article*/
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 270px;
@@ -107,7 +112,7 @@ a {
     color: #ffffff;
 }
 /* Section Article*/
-.online-reputation-management {
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 270px;
@@ -116,7 +121,7 @@ a {
     color: #ffffff;
 }
 /* Section Article*/
-.social-media-marketing {
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 270px;
@@ -125,7 +130,7 @@ a {
     color: #ffffff;
 }
 /*Right Column*/
-aside {
+.benefit {
     margin-right: 20px;
     margin-bottom: 20px;
     padding: 20px;
@@ -153,39 +158,41 @@ aside {
 }
 /* right column paragraph*/
 aside > p{
-    margin-bottom: 30px;
+    margin-top:30px;
     text-align: center;
     font-size: small;
 }
 /*right column section*/
 .benefit-lead {
+    padding-top: 20px;
     margin: 0;
     color: #ffffff;
     text-align: center;
 }
 /*right column section*/
 .benefit-brand {
-    margin-top: 20px;
+    margin-top: 30px;
     margin-bottom: 50px;
     color: #ffffff;
 }
 /*right column section*/
 .benefit-cost {
+    padding-top: -30px;
     margin-bottom: 30px;
     color: #ffffff;
 }
 /*Section Image*/
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 250px;
     max-width: 250px;
 }
 /*Section Image*/
-.online-reputation-management img {
+#online-reputation-management img {
     max-height: 250px;
     max-width: 250px;
 }
 /*Section Image*/
-.social-media-marketing img {
+#social-media-marketing img {
     max-height: 250px;
     max-width: 250px;
 }
